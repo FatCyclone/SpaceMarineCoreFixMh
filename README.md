@@ -1,7 +1,7 @@
 # SpaceMarineCoreFixMh
 A rewrite of the [SpaceMarineCoreFix](https://github.com/adrian-lebioda/SpaceMarineCoreFix) project from Adrian Lebodia.
 
-This one also impersonates DirectInput8 DLL but with [MinHook](https://github.com/TsudaKageyu/minhook) instead of Microsoft [Detours](https://github.com/microsoft/Detours).
+This one also impersonates DirectInput8 DLL and hooks necessary functions but with [MinHook](https://github.com/TsudaKageyu/minhook) instead of Microsoft [Detours](https://github.com/microsoft/Detours).
 ## USAGE
 1. Download **DINPUT8.dll** from [releases](https://github.com/FatCyclone/SpaceMarineCoreFixMh/releases).
 2. Download and install the latest [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist).
