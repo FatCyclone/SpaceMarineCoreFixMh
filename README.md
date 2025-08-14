@@ -1,4 +1,5 @@
 # SpaceMarineCoreFixMh
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 A rewrite of the [SpaceMarineCoreFix](https://github.com/adrian-lebioda/SpaceMarineCoreFix) project from Adrian Lebodia.
 
 This one also impersonates DirectInput8 DLL and hooks necessary functions but with [MinHook](https://github.com/TsudaKageyu/minhook) instead of Microsoft [Detours](https://github.com/microsoft/Detours).
